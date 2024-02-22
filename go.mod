@@ -1,4 +1,4 @@
-module github.com/adamdockstader/goproject
+module github.com/adamdockstader/goproject1
 
 go 1.22.0
 
